@@ -6,7 +6,10 @@
 <!-- Hero -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/RasyadDev-%232563EB.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJvbGU9ImltZyI+PHBhdGggZD0iTTkgM2g2bC0uOSAySDIxYTEgMSAwIDAgMSAxIDF2MTJhMSAxIDAgMCAxLTEgMUg0YTEgMSAwIDAgMS0xLTFWNWExIDEgMCAwIDEgMS0xaDUuMUw5IDN6bTYgN2gydi0ySDl2Mmg2ek01IDloMTR2OGgtMTRWOXoiLz48L3N2Zz4=" alt="RD" />
+<a href="https://rasyad.dev">
+  <img src="https://img.shields.io/badge/RasyadDev-%232563EB.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJvbGU9ImltZyI+PHBhdGggZD0iTTkgM2g2bC0uOSAySDIxYTEgMSAwIDAgMSAxIDF2MTJhMSAxIDAgMCAxLTEgMUg0YTEgMSAwIDAgMS0xLTFWNWExIDEgMCAwIDEgMS0xaDUuMUw5IDN6bTYgN2gydi0ySDl2Mmg2ek01IDloMTR2OGgtMTRWOXoiLz48L3N2Zz4=" alt="RasyadDev Badge" />
+</a>
+
   
 # Hi, I'm **Rasyad** 👋  
 **Independent Web Dev & IoT Enthusiast**  
